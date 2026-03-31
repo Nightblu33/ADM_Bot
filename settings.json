@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "bot_lindo",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "The_legion2.aternos.me:15874",
+    "ip": "The_legion2.aternos.me",
     "port": 15874,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
