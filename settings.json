@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "The_legion2.aternos.me",
+    "ip": "The_legion2.aternos.me:15874",
     "port": 15874,
     "version": "",
     "try-creative": false
